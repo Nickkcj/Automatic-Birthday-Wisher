@@ -1,4 +1,4 @@
-# 🎉 Birthday Email Automation
+# 🎉 Automatic Birthday Wisher
 
 A simple Python script that automatically sends birthday wishes via email using the `smtplib` library. It extracts data from a CSV file using `pandas`, checks if today matches any birthday using `datetime`, and then selects a random email template to send a personalized message. 🎂
 
